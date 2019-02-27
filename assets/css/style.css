@@ -191,10 +191,6 @@ footer {
     max-width: 800px;
     margin: 0 auto;
   }
-
-  nav {
-    margin-right: 25%;
-  }
 }
 
 @media screen and (max-width: 768px) {
@@ -245,5 +241,13 @@ footer {
   #profile__img {
     width: 50%;
     height: 50%;
+  }
+
+  .logo {
+    margin-left: 25%;
+  }
+
+  nav {
+    margin-right: 25%;
   }
 }
